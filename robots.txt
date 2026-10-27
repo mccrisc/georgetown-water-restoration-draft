@@ -1,0 +1,4 @@
+# DRAFT — site is noindex until Marcio SEO go-live.
+# Do not allow crawlers while Disallow is set.
+User-agent: *
+Disallow: /
